@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @pberlizov
+- 👀 I’m an incoming Harvard student teaching myself Python, ML, and everything in between! I love independent projects and I'm interested in trying out building complex models.
+- 🌱 I’m currently using MIT's online learning platform to study advanced math and computer science in depth. Planning on building an independent project in the next month!
+- 💞️ I’m looking to collaborate on a simple predictive learning platform employing open-source campaign donations data and voting pattern data to quantify the influence of corporate donations on U.S. politics. This is a great project because of the availability of datasets online going back decades.
+- 📫 How to reach me - feel free to reach out on LinkedIn or Instagram by searching my name. 
+- ⚡ Fun fact: I've been to over 40 countries!
